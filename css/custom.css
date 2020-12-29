@@ -7,7 +7,7 @@
   src: url(/assets/fonts/EuclidCircularA-SemiBold.ttf) format("truetype");
 }
 body {
-    font-family: arial, sans-serif;
+    font-family: fonteuc, sans-serif;
   font-style: normal;
 }
 #product .title {
