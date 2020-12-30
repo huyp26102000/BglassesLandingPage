@@ -23,9 +23,9 @@ $(function () {
             $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
             Email.send({
                 Host : "smtp.mailtrap.io",
-                Username : "bcd0517f5ae151",
-                Password : "274b4645c2cb47",
-                To : 'thien09062000@gmail.com',
+                Username : "7bdda96fcccef1",
+                Password : "fa0e86d91b1d97",
+                To : 'huyp26102000@gmail.com',
                 From : "sender@example.com",
                 Subject : "Contact Message",
                 Body : `<html > <head>
