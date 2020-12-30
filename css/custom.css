@@ -1,11 +1,4 @@
-@font-face {
-  font-family: fonteuc;
-  src: url(/assets/fonts/EuclidCircularA-Medium.ttf) format("truetype");
-}
-@font-face {
-  font-family: semi;
-  src: url(/assets/fonts/EuclidCircularA-SemiBold.ttf) format("truetype");
-}
+
 body {
     font-family: fonteuc, sans-serif;
   font-style: normal;
